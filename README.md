@@ -1,6 +1,3 @@
-# Hello :-) 
-# My name is Hasib.
+# Hi, I'm Hasib 👋
 
-```sh
-I welcome you to my github profile
-```
+I’m the CTO at NudgeMoney, building products that help people make better financial decisions.
