@@ -1,3 +1,3 @@
 # Hi, I'm Hasib 👋
 
-I’m the CTO at NudgeMoney, building products that help people make better financial decisions.
+I’m the Co-founder and CTO at Nudge Money, where I’m building AI-powered financial wellness solutions that are simple, personal, and secure
